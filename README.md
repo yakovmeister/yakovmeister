@@ -4,7 +4,7 @@
 <div align="center">
   <hr />
   <p align="center">
-    Yes, that's right. I am a web developer, you may usually see me working with things that are not visible to the naked eye (backend), but there are times when you might see me painting some walls somewhere drawing d?cks or whatever (frontend).
+    Yes, that's right. I am a web developer, you may usually see me working with things that are not visible to the naked eye (backend), but there are times when you might see me painting some walls somewhere drawing d&#9608;cks or whatever (frontend).
   </p>
   <br />
   <br />
